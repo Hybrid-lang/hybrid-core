@@ -5,7 +5,7 @@ Copyright 1996-2025 the NASM Authors - All rights reserved.
 Licensed under the BSD 2-Clause License.
 
 Full license text:
-
+```
 NASM is now licensed under the 2-clause BSD license, also known as the
 simplified BSD license.
 
@@ -37,3 +37,4 @@ SPDX-License-Identifier: BSD-2-Clause
       CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
       OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
       EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
